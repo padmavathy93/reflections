@@ -16,3 +16,6 @@ So that it would be easy to know from which commit onwards the remote must be up
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By mailing code to one another, through external hard drives, flash etc. GitHub is much easier.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we need to make conflicting changes like on same line that other person also changing then we can split it and do in another branch
+and then merge them. Benefits being that it does not have overriding problem.
