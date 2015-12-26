@@ -12,3 +12,7 @@ Branches: Done in our local repository. Before pushing to GitHub.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that it would be easy to know from which commit onwards the remote must be updated from the local repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By mailing code to one another, through external hard drives, flash etc. GitHub is much easier.
+
